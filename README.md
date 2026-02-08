@@ -123,7 +123,7 @@ HF_TOKEN=hf_your_huggingface_token_here
 PORT=5000
 
 Start the backend server:
-npm start
+npm start or node server.js
 
 Expected output:
 ✅ Server running on port 5000
@@ -146,8 +146,8 @@ http://localhost:5173
 
 5.Extracts investor names
 
-6.Displays them as cards
+6.Give one line reason
 
-7.Enables Show More / Show Less
+7.Displays them as cards
 
-10.Allows export as CSV and PDF
+8.Allows export as CSV and PDF
